@@ -1,0 +1,12 @@
+.square {
+    margin: 1em;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
